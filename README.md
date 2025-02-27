@@ -1,6 +1,7 @@
 ## SEOYEONG KIM 👋
 
-I'm interested in Backend/Server.
+I'm interested in web pragramming, especially in Backend/Server. 
+Feel free to contact me! 
 
 
 ### 🎓 EDUCATION
