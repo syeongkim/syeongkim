@@ -10,8 +10,8 @@ Feel free to contact me!
 - 2024.09. ~ 2025.02. Masaryk University Faculty of Informatics
 
 ### 📂 PROJECTS
-- 2022.08. ~ 2023.02. Correlation Analysis between Street Landscape and Crime Occurrence Using Deep Learning 
-- 2024.08. Newsqrab (AI-based short-form news generation platform)
+- 2022.08. ~ 2023.02. [Correlation Analysis between Street Landscape and Crime Occurrence Using Deep Learning] (https://github.com/syeongkim/Co-Deep-Project)
+- 2024.08. [Newsqrab (AI-based short-form news generation platform)] (https://github.com/syeongkim/newsqrab)
 
 ### ✨ HONORS
 - 2022.08. 3rd prize, Co-Deep Learning Project, Sungkyunkwan University
