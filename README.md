@@ -17,4 +17,4 @@ I'm interested in Backend/Server.
 - 2024.08. 2nd prize, AI Startup Hackathon
 
 ### ⚒️ TECH SKILL
-<img src="https://img.shields.io/badge/PYTHON-Blue?style=flat-square&logo=python&logoColor=blue" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/PYTHON-blue?style=flat-square&logo=python&logoColor=blue" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
