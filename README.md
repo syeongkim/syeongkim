@@ -17,4 +17,13 @@ I'm interested in Backend/Server.
 - 2024.08. 2nd prize, AI Startup Hackathon
 
 ### ⚒️ TECH SKILL
-<img src="https://img.shields.io/badge/PYTHON-blue?style=flat-square&logo=python&logoColor=blue" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+Language: 
+<img src="https://img.shields.io/badge/PYTHON-blue?style=flat-square&logo=python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+<img src="https://img.shields.io/badge/Kotlin-purple?style=flat-square&logo=kotlin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <br>
+Framework: 
+<img src="https://img.shields.io/badge/Flutter-skyblue?style=flat-square&logo=flutter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/TailwindCSS-skyblue?style=flat-square&logo=tailwindcss&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=react&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/NestJS-#E0234E?style=flat-square&logo=nestjs&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
