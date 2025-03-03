@@ -9,6 +9,11 @@ Feel free to contact me!
 - 2024.07. ~ 2024.08. KAIST Mad Camp
 - 2024.09. ~ 2025.02. Masaryk University Faculty of Informatics
 
+### 💬 EXPERIENCE
+- 2023.03. ~ 2023.06. Teaching Assistant of Computational Thinking and SW coding (DASF001)
+- 2023.09. ~ 2023.12. Teaching Assistant of Problem Solving and Algorithm (DASF002)
+- 2024.03. ~ 2024.06. Robust Web Crawling & Data Harvestig Engineer, Windly (Abear)
+
 ### 📂 PROJECTS
 - 2022.08. ~ 2023.02. Correlation Analysis between Street Landscape and Crime Occurrence Using Deep Learning [🔗](https://github.com/syeongkim/Co-Deep-Project)
 - 2024.08. Newsqrab (AI-based short-form news generation platform) [🔗](https://github.com/syeongkim/newsqrab)
@@ -16,11 +21,6 @@ Feel free to contact me!
 ### ✨ HONORS
 - 2022.08. 3rd prize, Co-Deep Learning Project, Sungkyunkwan University
 - 2024.08. 2nd prize, AI Startup Hackathon
-
-### 💬 EXPERIENCE
-- 2023.03. ~ 2023.06. Teaching Assistant of Computational Thinking and SW coding (DASF001)
-- 2023.09. ~ 2023.12. Teaching Assistant of Problem Solving and Algorithm (DASF002)
-- 2024.03. ~ 2024.06. Robust Web Crawling & Data Harvestig Engineer, Windly (Abear)
 
 ### ⚒️ TECH SKILL
 📌 **Language:** 
