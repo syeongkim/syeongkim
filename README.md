@@ -12,15 +12,15 @@ Feel free to contact me!
 ### 💬 EXPERIENCE
 - 2023.03. ~ 2023.06. Teaching Assistant of Computational Thinking and SW coding (DASF001)
 - 2023.09. ~ 2023.12. Teaching Assistant of Problem Solving and Algorithm (DASF002)
-- 2024.03. ~ 2024.06. Robust Web Crawling & Data Harvestig Engineer, Windly (Abear)
+- 2024.03. ~ 2024.06. Robust Web Crawling & Data Harvesting Engineer, Windly (Abear)
 
 ### 📂 PROJECTS
 - 2022.08. ~ 2023.02. Correlation Analysis between Street Landscape and Crime Occurrence Using Deep Learning [🔗](https://github.com/syeongkim/Co-Deep-Project)
-- 2024.08. Newsqrab (AI-based short-form news generation platform) [🔗](https://github.com/syeongkim/newsqrab)
+- 2024.08. ~ current Newsqrab (AI-based short-form news generation platform) [🔗](https://github.com/syeongkim/newsqrab)
 
 ### ✨ HONORS
 - 2022.08. 3rd prize, Co-Deep Learning Project, Sungkyunkwan University
-- 2024.08. 2nd prize, AI Startup Hackathon
+- 2024.08. 2nd prize, SPARCS 2024 AI Startup Hackathon
 
 ### ⚒️ TECH SKILL
 📌 **Language:** 
