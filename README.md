@@ -13,6 +13,7 @@ Feel free to contact me!
 - 2023.03. ~ 2023.06. Teaching Assistant of Computational Thinking and SW coding (DASF001)
 - 2023.09. ~ 2023.12. Teaching Assistant of Problem Solving and Algorithm (DASF002)
 - 2024.03. ~ 2024.06. Robust Web Crawling & Data Harvesting Engineer, Windly (Abear)
+- 2025.03. ~ 2025.06. Teaching Assistant of AI Basics & Uses (DASF005)
 
 ### 📂 PROJECTS
 - 2022.08. ~ 2023.02. Correlation Analysis between Street Landscape and Crime Occurrence Using Deep Learning [🔗](https://github.com/syeongkim/Co-Deep-Project)
@@ -26,7 +27,9 @@ Feel free to contact me!
 📌 **Language:** 
 <img src="https://img.shields.io/badge/PYTHON-%233776AB?style=flat-square&logo=python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-<img src="https://img.shields.io/badge/Kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <br>
+<img src="https://img.shields.io/badge/Kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <br>
+
 📌 **Framework:**
 <img src="https://img.shields.io/badge/Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
