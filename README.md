@@ -17,7 +17,7 @@ Feel free to contact me!
 
 ### 📂 PROJECTS
 - 2022.08. ~ 2023.02. Correlation Analysis between Street Landscape and Crime Occurrence Using Deep Learning [🔗](https://github.com/syeongkim/Co-Deep-Project)
-- 2024.08. ~ current Newsqrab (AI-based short-form news generation platform) [🔗](https://github.com/syeongkim/newsqrab)
+- 2024.08. ~ current Newsqrab (AI-based short-form news generation platform) [🔗](https://github.com/syeongkim/newsqrap_back)
 
 ### ✨ HONORS
 - 2022.08. 3rd prize, Co-Deep Learning Project, Sungkyunkwan University
